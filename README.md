@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### You can find me in
-[![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png)](https://github.com/) [![LinkedIn](https://img.icons8.com/ios-glyphs/30/000000/linkedin-2--v1.png)](https://www.linkedin.com/in/edilberto-vazquez-luna-7a038621b/) [![Twitter](https://img.icons8.com/ios-glyphs/30/000000/twitter--v1.png)](https://twitter.com/edivazquez98)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
 I am a software developer who likes to learn about new technologies, I am currently learning Go and Rust
 
